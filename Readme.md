@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/kadirsalvarci/backround/blob/d50ef6efeeadd9b17c29ea1e0729770f10714642/DevOps-Tools-DevOps-Tutorial-Edureka-1.png)
+![MasterHead](https://github.com/kadirsalvarci/backround/blob/cf5fd3a53d7c2a5a721d4079a3d88525b3f5e8c5/aws-banner.png)
 
 <h1 align="center">Hi 👋, I'm Kadir Salvarcioglu</h1>
 <h3 align="center">AWS & DevOps Engineer</h3>
