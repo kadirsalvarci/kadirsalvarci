@@ -1,11 +1,5 @@
-![MasterHead](https://github.com/kadirsalvarci/backround/blob/cf5fd3a53d7c2a5a721d4079a3d88525b3f5e8c5/aws-banner.png)
-<style>
-
-  body {
-
-  background-color:"blue";
-  }
-</style>
+![MasterHead](https://github.com/kadirsalvarci/backround/blue/cf5fd3a53d7c2a5a721d4079a3d88525b3f5e8c5/aws-banner.png)
+<
 <h1 align="center">Hi 👋, I'm Kadir Salvarcioglu</h1>
 <h3 align="center">AWS & DevOps Engineer</h3>
 
